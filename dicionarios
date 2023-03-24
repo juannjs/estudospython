@@ -1,0 +1,9 @@
+#Dicionários
+telefones= {"thiago":988988, "diogo":788788}
+
+#Para adicionar outra coisa dentro do dicionário
+telefones["rita"]=677677
+
+#Para apagar alguma coisa da lista
+del telefones["diogo"]
+print(telefones)
